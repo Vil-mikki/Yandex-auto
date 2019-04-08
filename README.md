@@ -1,0 +1,2 @@
+# Yandex-auto
+Static page
